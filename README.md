@@ -17,7 +17,7 @@ Generative AI models are designed to produce data that mirrors human-like creati
 
 ---
 
-## 🧠 Key Technologies
+## 🧠 Key Technologies:
 
 This project incorporates several popular frameworks and tools for developing Generative AI models:
 
